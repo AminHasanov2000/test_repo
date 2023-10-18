@@ -4,8 +4,7 @@ public class FirstREpo {
         System.out.println("Hello");
         System.out.println("First repository");
         System.out.println("Hello");
-        System.out.println("First repository");
-        System.out.println("Hello");
+        
        
     }
 }
